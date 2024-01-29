@@ -1,0 +1,30 @@
+PING 159.203.23.80 (159.203.23.80): 56 data bytes
+64 bytes from 159.203.23.80: icmp_seq=0 ttl=56 time=17.588 ms
+64 bytes from 159.203.23.80: icmp_seq=1 ttl=56 time=41.100 ms
+64 bytes from 159.203.23.80: icmp_seq=2 ttl=56 time=55.071 ms
+64 bytes from 159.203.23.80: icmp_seq=3 ttl=56 time=39.840 ms
+64 bytes from 159.203.23.80: icmp_seq=4 ttl=56 time=25.536 ms
+64 bytes from 159.203.23.80: icmp_seq=5 ttl=56 time=20.201 ms
+64 bytes from 159.203.23.80: icmp_seq=6 ttl=56 time=38.105 ms
+64 bytes from 159.203.23.80: icmp_seq=7 ttl=56 time=16.018 ms
+64 bytes from 159.203.23.80: icmp_seq=8 ttl=56 time=18.820 ms
+64 bytes from 159.203.23.80: icmp_seq=9 ttl=56 time=26.871 ms
+^C
+--- 159.203.23.80 ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 16.018/29.915/55.071/12.306 ms
+
+
+
+ping 159.203.23.80 -w 5
+PING 159.203.23.80 (159.203.23.80) 56(84) bytes of data.
+64 bytes from 159.203.23.80: icmp_seq=1 ttl=64 time=0.037 ms
+64 bytes from 159.203.23.80: icmp_seq=2 ttl=64 time=0.052 ms
+64 bytes from 159.203.23.80: icmp_seq=3 ttl=64 time=0.054 ms
+64 bytes from 159.203.23.80: icmp_seq=4 ttl=64 time=0.059 ms
+64 bytes from 159.203.23.80: icmp_seq=5 ttl=64 time=0.052 ms
+
+--- 159.203.23.80 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4087ms
+rtt min/avg/max/mdev = 0.037/0.050/0.059/0.007 ms
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# 

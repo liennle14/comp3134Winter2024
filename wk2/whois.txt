@@ -1,0 +1,112 @@
+1)
+AMAZON.COM
+Domain Name: amazon.com
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-05-16T18:56:31+0000
+Creation Date: 1994-11-01T05:00:00+0000
+Registrar Registration Expiration Date: 2024-10-30T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+
+Registrant Name: Hostmaster, Amazon Legal Dept.
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Street: P.O. Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 89507
+Registrant Country: US
+
+Name Servers
+ns1.amzndns.co.uk 156.154.67.10
+ns1.amzndns.com 156.154.64.10
+ns1.amzndns.net 156.154.65.10
+
+
+2) 
+FACEBOOK.COM 
+
+Domain Name: FACEBOOK.COM
+   Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.registrarsafe.com
+   Registrar URL: http://www.registrarsafe.com
+   Updated Date: 2023-04-26T19:04:19Z
+   Creation Date: 1997-03-29T05:00:00Z
+   Registry Expiry Date: 2032-03-30T04:00:00Z
+   Registrar: RegistrarSafe, LLC
+
+Registrant Contact Information:
+Name: Domain Admin
+Organization: Meta Platforms, Inc.
+Address: 1601 Willow Rd
+City: Menlo Park
+State / Province: CA
+Postal Code: 94025
+Country: US
+
+Name Servers
+A.NS.FACEBOOK.COM 129.134.30.12
+B.NS.FACEBOOK.COM 129.134.31.12
+C.NS.FACEBOOK.COM 185.89.218.12
+
+3)
+LINKEDIN.COM
+
+   Domain Name: LINKEDIN.COM
+   Registry Domain ID: 91818680_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2023-04-28T01:00:20Z
+   Creation Date: 2002-11-02T15:38:11Z
+   Registry Expiry Date: 2024-11-02T15:38:11Z
+   Registrar: MarkMonitor Inc.
+
+Registrant Contact Information:
+Name: Domain Administrator
+Organization: LinkedIn Corporation
+Address: 1000 W. Maude Ave
+City: Sunnyvale
+State / Province: CA
+Postal Code: 94085
+Country: US
+
+Name Servers
+dns1.p09.nsone.net 198.51.44.9
+dns2.p09.nsone.net 198.51.45.9
+dns3.p09.nsone.net 198.51.44.73
+
+4)
+SHOPIFY.COM
+
+Domain Name: shopify.com
+Registry Domain ID: 145873763_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-02-07T09:20:22+0000
+Creation Date: 2005-03-11T05:18:03+0000
+Registrar Registration Expiration Date: 2025-03-11T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+
+Name Server: dns3.p06.nsone.net
+Name Server: dns2.p06.nsone.net
+Name Server: dns1.p06.nsone.net
+
+5)
+REDDIT.COM
+
+Domain Name: reddit.com
+Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2022-03-28T09:30:07+0000
+Creation Date: 2005-04-29T17:59:19+0000
+Registrar Registration Expiration Date: 2024-04-29T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrant Organization: Reddit Inc.
+Registrant State/Province: CA
+Registrant Country: US
+
+Name Server: ns-557.awsdns-05.net
+Name Server: ns-1029.awsdns-00.org
+Name Server: ns-1887.awsdns-43.co.uk
+

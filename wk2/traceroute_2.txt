@@ -1,0 +1,9 @@
+traceroute to 159.203.23.80 (159.203.23.80), 64 hops max, 52 byte packets
+ 1  puma7-atom (192.168.0.1)  5.809 ms  3.600 ms  3.078 ms
+ 2  cpe000f6603c7b6-cm0014f8c167c2.cpe.net.cable.rogers.com (72.138.205.129)  15.038 ms  10.828 ms  14.011 ms
+ 3  8087-dgw02.ktgc.rmgt.net.rogers.com (24.156.150.109)  13.129 ms  14.234 ms  16.423 ms
+ 4  209.148.233.229 (209.148.233.229)  17.094 ms
+    209.148.233.233 (209.148.233.233)  15.670 ms
+    209.148.238.218 (209.148.238.218)  17.683 ms
+ 5  209.148.235.214 (209.148.235.214)  16.332 ms  26.608 ms  16.899 ms
+ 6  digitalocean-tor1-edge2.ip4.torontointernetxchange.net (206.108.35.15)  15.300 ms  17.885 ms  15.551 ms

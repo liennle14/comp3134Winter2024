@@ -1,0 +1,19 @@
+1) Instagram.com
+157.240.22.174
+United States of America
+
+2) Chat.openai.com
+172.64.150.28
+United States of America
+
+3) crunchyroll.com
+172.64.153.54
+United States of America
+
+4) tiktok.com
+13.227.74.62
+United States of America
+
+5) x.com
+104.244.42.129
+United States of America
