@@ -1,0 +1,9 @@
+tcpdump -r 0001.pcap
+
+
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+08:58:29.673177 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 2648084966:2648085030, ack 426586683, win 501, options [nop,nop,TS val 3695464359 ecr 2783636423], length 64
+08:58:29.673267 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 64:144, ack 1, win 501, options [nop,nop,TS val 3695464359 ecr 2783636423], length 80
+08:58:29.673341 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 144:224, ack 1, win 501, options [nop,nop,TS val 3695464359 ecr 2783636423], length 80
+08:58:29.673405 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 224:304, ack 1, win 501, options [nop,nop,TS val 3695464359 ecr 2783636423], length 80
+08:58:29.673455 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 304:368, ack 1, win 501, options [nop,nop,TS val 3695464359 ecr 2783636423], length 64

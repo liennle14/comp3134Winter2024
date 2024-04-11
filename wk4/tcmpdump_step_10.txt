@@ -1,0 +1,10 @@
+tcpdump -i eth0 port 22
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 65535 bytes09:02:32.870367 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 74192, win 3357, options [nop,nop,TS val 2783879628 ecr 3695707556], length 0
+09:02:32.870420 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 75008, win 3357, options [nop,nop,TS val 2783879628 ecr 3695707556], length 0
+09:02:32.870428 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 75632:75872, ack 1, win 501, options [nop,nop,TS val 3695707556 ecr 2783879628], length 240
+09:02:32.870545 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 75872:76496, ack 1, win 501, options [nop,nop,TS val 3695707556 ecr 2783879628], length 624
+09:02:32.870559 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 75632, win 3357, options [nop,nop,TS val 2783879628 ecr 3695707556], length 0
+09:02:32.870669 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 76496:77120, ack 1, win 501, options [nop,nop,TS val 3695707557 ecr 2783879628], length 624
+09:02:32.870746 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 75872, win 3357, options [nop,nop,TS val 2783879628 ecr 3695707556], length 0

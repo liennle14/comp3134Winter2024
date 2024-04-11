@@ -1,0 +1,16 @@
+tcpdump -A -i eth0
+
+...*.Ew:]t...".=.......a..20W.6....6........UN....H.e.]..9.?.v.@.A.};I(r>D.*..IL.g~......K.    ...c...S.AD..%..V...>..WFQ@.....G&..|...k.r./.m.r.)...g..8.;...p`X|.^....       ..O...  .e.a{.{..i\....A/.0.~*..l/..Y....=.7....Rq.....!.it)..mc..n.!.qY....wRdsC.l...._...1...&...Q..*ZY.5..37R...]Z.['T.5Q^.m=...A..   ....Md..G...t..YY..;.AdR..7.w...d..'.x..x!..!..S....L.H.O.S../.<..U..    I.............?..V..&u..v5..s.C..P............2....IT"......d....)9...A./aT=[1..I.~..IX^...J.4...jX.G....
+08:54:51.849217 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 989256, win 310, options [nop,nop,TS val 2783418606 ecr 3695246535], length 0
+E..4..@.:.X....B...P.(...m$...:>...6.......
+.....@..
+08:54:51.849217 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1028928, win 1, options [nop,nop,TS val 2783418606 ecr 3695246535], length 0
+E..4..@.:.X....B...P.(...m$....6...........
+.....@..
+08:54:52.057705 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 1028928:1029056, ack 1, win 501, options [nop,nop,TS val 3695246744 ecr 2783418606], length 128
+E.....@.@.BT...P...B...(...6.m$............
+.@........q.;x.>.QAh.J....7...q..6..E...].|6B.g.Mf...........h.+....I3...Fn..u...>f.3.. .5.-...r..J......i...8.W2........D...b.n....]CFe
+^C
+2701 packets captured
+2717 packets received by filter
+0 packets dropped by kernel

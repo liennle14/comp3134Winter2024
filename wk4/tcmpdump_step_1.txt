@@ -1,0 +1,21 @@
+tcpdump -i eth0
+
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+08:51:44.324649 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 2644563830:2644563958, ack 426582891, win 501, options [nop,nop,TS val 3695059011 ecr 2783231075], length 128
+08:51:44.324748 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 128:192, ack 1, win 501, options [nop,nop,TS val 3695059011 ecr 2783231075], length 64
+08:51:44.324790 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 192:272, ack 1, win 501, options [nop,nop,TS val 3695059011 ecr 2783231075], length 80
+08:51:44.324851 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 272:352, ack 1, win 501, options [nop,nop,TS val 3695059011 ecr 2783231075], length 80
+08:51:44.324916 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 352:432, ack 1, win 501, options [nop,nop,TS val 3695059011 ecr 2783231075], length 80
+08:51:44.324939 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.43816: Flags [P.], seq 432:496, ack 1, win 501, options [nop,nop,TS val 3695059011 ecr 2783231075], length 64
+08:51:44.325063 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 128, win 3357, options [nop,nop,TS val 2783231082 ecr 3695059011], length 0
+08:51:44.325103 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 192, win 3357, options [nop,nop,TS val 2783231082 ecr 3695059011], length 0
+08:51:44.325103 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 272, win 3357, options [nop,nop,TS val 2783231082 ecr 3695059011], length 0
+08:51:44.325129 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 352, win 3357, options [nop,nop,TS val 2783231082 ecr 3695059011], length 0
+08:51:44.325308 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 432, win 3357, options [nop,nop,TS val 2783231082 ecr 3695059011], length 0
+08:51:44.325308 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 496, win 3357, options [nop,nop,TS val 2783231082 ecr 3695059011], length 0
+08:51:44.422698 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.56180 > 67.207.67.3.domain: 58833+ [1au] PTR? 66.190.243.162.in-addr.arpa. (56)
+08:51:44.422948 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.34790 > 67.207.67.3.domain: 30133+ [1au] PTR? 66.190.243.162.in-addr.arpa. (56)
+08:51:44.424437 IP 67.207.67.3.domain > lamponubuntu2204-s-1vcpu-1gb-tor1-01.56180: 58833 NXDomain 0/1/1 (123)
+08:51:44.424437 IP 67.207.67.3.domain > lamponubuntu2204-s-1vcpu-1gb-tor1-01.34790: 30133 NXDomain 0/1/1 (123)
+08:51:44.424677 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.56180 > 67.207.67.3.domain: 58833+ PTR? 66.190.243.162.in-addr.arpa. (45)

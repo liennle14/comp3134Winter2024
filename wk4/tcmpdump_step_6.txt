@@ -1,0 +1,7 @@
+tcpdump -w 0001.pcap -i eth0
+
+tcpdump -w 0001.pcap -i eth0
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+^C59 packets captured
+65 packets received by filter
+0 packets dropped by kernel

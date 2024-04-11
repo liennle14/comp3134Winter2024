@@ -1,0 +1,8 @@
+tcpdump -XX -i eth0
+
+08:57:02.831705 IP 162.243.190.66.43816 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 181296, win 3357, options [nop,nop,TS val 2783549589 ecr 3695377517], length 0
+        0x0000:  5e68 0147 cd0a fe00 0000 0101 0800 4500  ^h.G..........E.
+        0x0010:  0034 d11c 4000 3a06 5756 a2f3 be42 9fcb  .4..@.:.WV...B..
+        0x0020:  1750 ab28 0016 196d 2f1b 9dc1 f6a6 8010  .P.(...m/.......
+        0x0030:  0d1d b1ef 0000 0101 080a a5e9 9895 dc42  ...............B
+        0x0040:  fc6d                                     .m
