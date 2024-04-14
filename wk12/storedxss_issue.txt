@@ -1,0 +1,1 @@
+The issue with the setup is that the contents of storedxss.txt are output directly to the browser without any sanitization or escaping. This means that if the contents contain malicious JavaScript code, it will be executed in the context of the website, potentially leading to Cross-Site Scripting (XSS) attacks on users who visit the page.

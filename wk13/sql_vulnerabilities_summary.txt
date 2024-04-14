@@ -1,0 +1,14 @@
+1) After inputting the first name value 'Ben', it shows 0 results of the user. This is because the user was not declared active (1) in the query.
+
+
+2) The input includes a single quote, two dashes, and a space. This combination is often used to comment out the rest of the SQL query.
+
+The query executed by the PHP script likely forms a SQL query like: SELECT * FROM users WHERE firstname = 'Ben'-- AND active = 1.
+
+Expected behavior: The SQL query may be interpreted as a comment, effectively ignoring the rest of the query after the --. This could potentially bypass the intended filtering condition (AND active = 1) and retrieve all users with the first name 'Ben'.
+
+
+
+3) The input includes a single quote followed by the condition 1=1, which is always true. This is a common SQL injection payload used to bypass authentication or filtering conditions. The query executed by the PHP script likely forms a SQL query like: SELECT * FROM users WHERE firstname = 'Ben' OR 1=1 AND active = 1.
+
+Expected behavior: The 1=1 condition will always evaluate to true, effectively bypassing any filtering condition after it (AND active = 1). This could potentially retrieve all users from the database, regardless of their active status.

@@ -1,0 +1,5 @@
+1) from searching "cat" in the form field, the url changes to https://www.dictionary.com/browse/cat after searching cat. Upon inspection of the cookies, only 2 values are shown to have saved.
+
+2) From searching "cax", it does not exist in the dictionary and there are much more cookies being stored. 
+
+3)

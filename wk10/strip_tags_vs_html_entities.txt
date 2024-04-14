@@ -1,0 +1,12 @@
+Difference between strip_tags and htmlentities:
+
+strip_tags:
+- This function removes HTML and PHP tags from a string.
+- It does not convert special characters to HTML entities.
+- It is useful for simply removing HTML tags without converting the content to its HTML entity representation.
+
+
+htmlentities:
+- This function converts all applicable characters to HTML entities.
+- It converts characters like "<" to "&lt;", ">" to "&gt;", etc.
+- It preserves the original content but escapes special characters, making it safe to display HTML content without executing scripts.
