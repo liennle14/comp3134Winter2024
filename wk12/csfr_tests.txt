@@ -1,5 +1,0 @@
-- The PHP session variable `confirmation` is generated with a random value each time `csfr_form.php` is loaded.
-
-- The value of the session variable `confirmation` is sent as a hidden form field value named `confirmation` when the form is submitted.
-
-- This approach ensures that each form submission includes a unique value that can be validated on the server side to mitigate CSRF attacks.

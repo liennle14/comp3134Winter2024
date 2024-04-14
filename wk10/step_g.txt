@@ -1,1 +1,0 @@
-I converted all HTML comments to PHP comments. This conversion ensures that the comments are not visible to the browser when rendering the page.

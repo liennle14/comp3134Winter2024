@@ -1,3 +1,0 @@
-the url / directory_traversal_part1.php?q=../../ shows the root directories contents.
-
-sensitive information such as filenames are exposed.

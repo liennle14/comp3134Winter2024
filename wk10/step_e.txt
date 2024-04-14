@@ -1,3 +1,0 @@
-the change in directory_traversal_part2 allows the user to not be able to view files and folders before the html directory
-
-it will just show a message instead saying, "Invalid directory path." if the directory doesn't exist or if it is a file within the html directory.

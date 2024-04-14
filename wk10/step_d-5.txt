@@ -1,6 +1,0 @@
-
-Since the PHP script is vulnerable to directory traversal, you may see the contents of directories above the web root directory
-
-
-
-sensitive system files, configuration files, or other directories and files that should not be publicly accessible. Directory traversal vulnerabilities can potentially expose critical information about the server's file system structure and contents, which could aid attackers in further exploitation attempts.

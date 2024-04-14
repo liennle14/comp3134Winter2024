@@ -1,3 +1,0 @@
-There is a scandir() error. when trying to access the url http://159.203.26.160/directory_traversal_part1.php?q=hello. This is because the 'hello' directory does not exist.
-
-sensitive information such as filenames, directory names, and potentially file contents may be exposed. This could pose a security risk.
